@@ -81,7 +81,7 @@ The pipeline is a single Colab notebook, `notebooks/PDB_leakage_rebenchmark_10se
 ## Data availability
 
 - **Source data:** RCSB Protein Data Bank, via the Kaggle dataset [`shahir/protein-data-set`](https://www.kaggle.com/datasets/shahir/protein-data-set).
-- **This repository** (curated dataset, cluster assignments, per-seed results, figures, and pipeline) is archived on Zenodo: **[DOI to be added on release]**.
+- **This repository** (curated dataset, cluster assignments, per-seed results, figures, and pipeline) is archived on github: **https://github.com/afaquealam-nitp/pdb-homology-leakage-benchmark**.
 
 ## Citation
 
